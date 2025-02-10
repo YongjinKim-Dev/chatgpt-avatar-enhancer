@@ -1,0 +1,17 @@
+{
+  "name": "chatgpt-avatar-enhancer",
+  "version": "1.0.0",
+  "description": "Add user/assistant avatars to ChatGPT conversations",
+  "main": "content.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "YourName",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "jsdom": "^20.0.0"
+  }
+}
+
